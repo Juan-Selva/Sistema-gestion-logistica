@@ -1,0 +1,18 @@
+{
+  "paquetes": [
+    {
+      "id": 101,
+      "peso": 55.0,
+      "destino": "caba",
+      "tipo": "OTROS",
+      "urgente": false
+    },
+    {
+      "id": 102,
+      "peso": 5.0,
+      "destino": "mendoza",
+      "tipo": "OTROS",
+      "urgente": false
+    }
+  ]
+}
